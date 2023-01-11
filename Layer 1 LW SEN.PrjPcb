@@ -135,6 +135,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=boost.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RRFLMNSO
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Layer 1 LW SEN\Design Rule Check - Sheet1.html
 DItemRevisionGUID=
@@ -156,102 +173,70 @@ DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Copper_Signal_To
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Dimensions.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Drawing_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Drillmap_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_7.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_29.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Mechanical_50.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Polygon_Layer.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Layer 1 LW SEN\GerberX2\Sheet1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
